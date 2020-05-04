@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReestrS3Z", "ReestrS3Z.pyproj", "{0C196AC3-4538-4956-869A-0A2A9C32DBB8}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReestrSZZ", "ReestrSZZ.pyproj", "{0C196AC3-4538-4956-869A-0A2A9C32DBB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
